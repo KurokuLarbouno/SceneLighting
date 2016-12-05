@@ -1,5 +1,5 @@
 <Solution>
-  <PropertyGroup Name="SceneLighting" Version="3.10.0.0" Type="CocosStudio" />
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
@@ -22,6 +22,8 @@
           <PlistImageFile Name="returnnormal.png" Key="returnnormal.png" />
           <PlistImageFile Name="returnon.png" Key="returnon.png" />
           <PlistImageFile Name="roadfg.png" Key="roadfg.png" />
+          <PlistImageFile Name="runbtnnormal.png" Key="runbtnnormal.png" />
+          <PlistImageFile Name="runbtnon.png" Key="runbtnon.png" />
           <PlistImageFile Name="stone1.png" Key="stone1.png" />
           <PlistImageFile Name="stone2.png" Key="stone2.png" />
           <PlistImageFile Name="stone3.png" Key="stone3.png" />

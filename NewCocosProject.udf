@@ -25,5 +25,15 @@
         <LastRunType Value="Android" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="GameScene.csd" />
+          <FilePathData Path="fgnode.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="fgnode.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
